@@ -1,4 +1,6 @@
-# 11ty-landing-page
+# netlify-landing-page
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69f480ff-1760-4b65-925a-ce38fa27cff0/deploy-status)](https://app.netlify.com/sites/cerulean-torrone-b62276/deploys)
 
 A simple landing page built with 11ty and Tailwind CSS.
 
